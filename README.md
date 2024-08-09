@@ -5,13 +5,21 @@
 
 ### Skill
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
-
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Embedded-00599C?style=flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-00599C?style=flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/Automotive-00599C?style=flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/5G-00599C?style=flat-square&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/Android-00599C?style=flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/Yocto-00599C?style=flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/GFX-00599C?style=flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/BSP-00599C?style=flat-square&logoColor=white">
+
  
 </p>
 
