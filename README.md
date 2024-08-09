@@ -1,43 +1,22 @@
-## Hi there 👋
-
-<!--
-**megamino81/megamino81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-[![megamino's github stats](https://github-readme-stats.vercel.app/api?username=megamino81&show_icons=true&theme=radical)](https://github.com/megamino81/github-readme-stats) <br>
-
-<!--
-[![](https://raw.githubusercontent.com/megamino81/Card/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/megamino81) [![](https://raw.githubusercontent.com/megamino81/Card/master/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/megamino81)
-[![](https://raw.githubusercontent.com/megamino81/Card/master/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/megamino81) [![](https://raw.githubusercontent.com/megamino81/Card/master/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/megamino81)
-
-[![megamino's github stats](https://github-readme-stats.vercel.app/api?username=megamino81&show_icons=true&theme=radical)](https://github.com/megamino81/github-readme-stats)
-<br>
-
--->
-
-📫 : megamino@gmail.com  <br>
 
 ### Career
-
 - 2014.6 ~ 2024.3 : Intel, Platform Application Engineer
 - 2004.2 ~ 2014.6 : Wind River, Senior Software Engineer
 
-<br>
-  
-<div align=center>
- 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgyoogle%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+### Skill
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
 
-</div>
+  <br>
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+ 
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmegamion81&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
+</p>
