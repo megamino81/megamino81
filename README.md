@@ -1,7 +1,9 @@
 
 ### Career
-- 2014.6 ~ 2024.3 : Intel, Platform Application Engineer
-- 2004.2 ~ 2014.6 : Wind River, Senior Software Engineer
+- 2026.06 ~ Current : Renesas, Principal Application Engineer
+- 2024.11 ~ 2026.05 : Red Hat, Principal Software Engineer
+- 2014.06 ~ 2024.03 : Intel, Platform Application Engineer
+- 2004.02 ~ 2014.06 : Wind River, Senior Software Engineer
 
 ### Skill
 <p align="left">
